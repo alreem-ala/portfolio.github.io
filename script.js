@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'My Portfolio'; /* The text */
+var txt = 'Alreems Portfolio'; /* The text */
 var speed = 50; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
